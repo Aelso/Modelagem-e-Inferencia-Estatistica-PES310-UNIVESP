@@ -6,6 +6,6 @@
 * [Semana 3: Teste de hipótese e Previsão da resposta] 
 * [Semana 4: Adequações do modelo e modelos não lineares] 
 * [Semana 5: Métodos de regressão gerais, Modelos Logístico e polinomial] 
-* [Semana 6: Regressão múltipla parte 1]Em construção... 🚧 🧱
-* [Semana 7: Regressão múltipla parte 2]Em construção... 🚧 🧱
-* [Semana 8: Revisão]Em construção... 🚧 🧱
+* [Semana 6: Regressão múltipla parte 1] 
+* [Semana 7: Regressão múltipla parte 2] 
+* [Semana 8: Revisão]Em construção 
